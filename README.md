@@ -1,6 +1,5 @@
 # LeetCode-Solution
 
-Sure, here's a README file template focused on documenting your Data Structures and Algorithms (DSA) questions and solutions:
 
 Data Structures and Algorithms (DSA) Questions and Solutions
 Welcome to my repository of Data Structures and Algorithms (DSA) questions and solutions. This repository is designed to help with coding interview preparation and to practice DSA concepts.
